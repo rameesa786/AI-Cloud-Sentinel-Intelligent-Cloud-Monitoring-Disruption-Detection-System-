@@ -33,3 +33,20 @@ Python
 JSON  
 Automation Scripts  
 Git
+
+## Run Evaluation
+
+Run the verification script:
+
+python scripts/verify_output.py
+
+Output will return:
+
+PASS: evaluation successful
+or
+FAIL: validation error
+
+
+##Initial commit: AI evaluation workflow with deterministic verification script
+
+
