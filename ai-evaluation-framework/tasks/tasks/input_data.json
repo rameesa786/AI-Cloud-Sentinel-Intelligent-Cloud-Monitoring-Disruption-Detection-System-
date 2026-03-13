@@ -1,0 +1,4 @@
+{
+  "task": "resume_ranking",
+  "description": "Rank candidate resumes based on relevance score"
+}
